@@ -31,9 +31,6 @@ fun_fact: "I speak fluent regex and broken English 😄"
 
 ![Python](https://img.shields.io/badge/-Python-0D0221?style=for-the-badge&logo=python&logoColor=39FF14)
 ![Linux](https://img.shields.io/badge/-Linux-0D0221?style=for-the-badge&logo=linux&logoColor=9D00FF)
-
-![C](https://img.shields.io/badge/-C-0D0221?style=for-the-badge&logo=c&logoColor=9D00FF)
-
 ![Docker](https://img.shields.io/badge/-Docker-0D0221?style=for-the-badge&logo=docker&logoColor=9D00FF)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D0221?style=for-the-badge&logo=tensorflow&logoColor=39FF14)
 ![Git](https://img.shields.io/badge/-Git-0D0221?style=for-the-badge&logo=git&logoColor=9D00FF)
