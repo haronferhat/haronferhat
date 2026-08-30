@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&height=60&lines=%3E+whoami;Cybersecurity+%7C+AI+%7C+Networking;sudo+access_granted+%E2%9C%94" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=PROFILE+VIEWS&color=9D00FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=FOLLOWERS&style=for-the-badge&color=39FF14&labelColor=0D0221)
+
 
 </div>
 
