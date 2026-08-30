@@ -15,12 +15,25 @@ name: "Ferhat Haron"
 role: "Cybersecurity Enthusiast | AI Explorer | Network Engineer"
 location: "Algeria"
 focus:
-  - Penetration Testing
   - Network Security
   - Applied AI / ML 
-  - Building safer systems, one exploit at a time
+  -Data pipelines : préparation, nettoyage, transformation, feature engineering
+  -Cyber Security
 fun_fact: "I speak fluent regex and broken English 😄"
 ```
+
+<br>
+
+## `>_` Why choosing me 😄
+'''yaml
+Analytical thinking
+Problem-solving
+Teamwork
+Communication
+Adaptability
+Quick learning
+Organizational skills
+'''
 
 <br>
 
@@ -35,6 +48,13 @@ fun_fact: "I speak fluent regex and broken English 😄"
 ![Git](https://img.shields.io/badge/-Git-0D0221?style=for-the-badge&logo=git&logoColor=9D00FF)
 ![Nmap](https://img.shields.io/badge/-Nmap-0D0221?style=for-the-badge&logo=nmap&logoColor=39FF14)
 ![MySQL](https://img.shields.io/badge/-SQL-0D0221?style=for-the-badge&logo=mysql&logoColor=9D00FF)
+![HTML5](https://img.shields.io/badge/-HTML5-0D0221?style=for-the-badge&logo=html5&logoColor=39FF14)
+![CSS3](https://img.shields.io/badge/-CSS3-0D0221?style=for-the-badge&logo=css3&logoColor=9D00FF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=39FF14)
+![React](https://img.shields.io/badge/-React-0D0221?style=for-the-badge&logo=react&logoColor=9D00FF)
+![PHP](https://img.shields.io/badge/-PHP-0D0221?style=for-the-badge&logo=php&logoColor=39FF14)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D0221?style=for-the-badge&logo=tailwindcss&logoColor=9D00FF)
+![Express.js](https://img.shields.io/badge/-Express.js-0D0221?style=for-the-badge&logo=express&logoColor=39FF14)
 
 </div>
 
