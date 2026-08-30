@@ -17,8 +17,8 @@ location: "Algeria"
 focus:
   - Network Security
   - Applied AI / ML 
-  -Data pipelines : préparation, nettoyage, transformation, feature engineering
-  -Cyber Security
+  - Data pipelines : préparation, nettoyage, transformation, feature engineering
+  - Cyber Security
 fun_fact: "I speak fluent regex and broken English 😄"
 ```
 
