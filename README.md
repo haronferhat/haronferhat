@@ -60,7 +60,7 @@ fun_fact: "I speak fluent regex and broken English 😄"
 
 <br>
 
-
+## `>_` Contact 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/haron-ferhat-0497b725b)
