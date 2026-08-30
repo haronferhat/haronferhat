@@ -43,7 +43,7 @@ fun_fact: "I speak fluent regex and broken English 😄"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/[YOUR-LINK](https://www.linkedin.com/in/haron-ferhat-0497b725b?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/[YOUR-LINK](https://www.linkedin.com/in/https://www.linkedin.com/in/haron-ferhat-0497b725b))
 
 [![Email](https://img.shields.io/badge/-Email-0D0221?style=for-the-badge&logo=gmail&logoColor=9D00FF)](mailto:Haronferhat0075@gmail.com)
 
