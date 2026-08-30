@@ -9,7 +9,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## `root@yourname:~$` cat about.txt
 
 ```yaml
 name: "Ferhat Haron"
@@ -41,28 +40,6 @@ fun_fact: "I speak fluent regex and broken English 😄"
 
 <br>
 
-## `>_` Live Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=39FF14&icon_color=9D00FF&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=39FF14&text_color=c9d1d9" width="43%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true&background=0D0221&stroke=9D00FF&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="60%"/>
-
-</div>
-
-<br>
-
-## `>_` Contribution Grid
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&bg_color=0D0221&color=39FF14&line=9D00FF&point=39FF14&hide_border=true" width="90%"/>
-</div>
-
-<br>
-
-## `>_` Connect / Socials
 
 <div align="center">
 
