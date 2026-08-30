@@ -25,15 +25,15 @@ fun_fact: "I speak fluent regex and broken English 😄"
 <br>
 
 ## `>_` Why choosing me 😄
-'''yaml
-Analytical thinking
-Problem-solving
-Teamwork
-Communication
-Adaptability
-Quick learning
-Organizational skills
-'''
+
+- Analytical thinking
+- Problem-solving
+- Teamwork
+- Communication
+- Adaptability
+- Quick learning
+- Organizational skills
+
 
 <br>
 
