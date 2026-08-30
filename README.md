@@ -12,13 +12,13 @@
 ## `root@yourname:~$` cat about.txt
 
 ```yaml
-name: "Your Name"
+name: "Ferhat Haron"
 role: "Cybersecurity Enthusiast | AI Explorer | Network Engineer"
 location: "Algeria"
 focus:
   - Penetration Testing
   - Network Security
-  - Applied AI / ML for Security
+  - Applied AI / ML 
   - Building safer systems, one exploit at a time
 fun_fact: "I speak fluent regex and broken English 😄"
 ```
@@ -31,9 +31,9 @@ fun_fact: "I speak fluent regex and broken English 😄"
 
 ![Python](https://img.shields.io/badge/-Python-0D0221?style=for-the-badge&logo=python&logoColor=39FF14)
 ![Linux](https://img.shields.io/badge/-Linux-0D0221?style=for-the-badge&logo=linux&logoColor=9D00FF)
-![Bash](https://img.shields.io/badge/-Bash-0D0221?style=for-the-badge&logo=gnubash&logoColor=39FF14)
+
 ![C](https://img.shields.io/badge/-C-0D0221?style=for-the-badge&logo=c&logoColor=9D00FF)
-![Wireshark](https://img.shields.io/badge/-Wireshark-0D0221?style=for-the-badge&logo=wireshark&logoColor=39FF14)
+
 ![Docker](https://img.shields.io/badge/-Docker-0D0221?style=for-the-badge&logo=docker&logoColor=9D00FF)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D0221?style=for-the-badge&logo=tensorflow&logoColor=39FF14)
 ![Git](https://img.shields.io/badge/-Git-0D0221?style=for-the-badge&logo=git&logoColor=9D00FF)
@@ -69,10 +69,9 @@ fun_fact: "I speak fluent regex and broken English 😄"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/YOUR-LINK)
-[![Twitter/X](https://img.shields.io/badge/-X-0D0221?style=for-the-badge&logo=x&logoColor=9D00FF)](https://x.com/YOUR-LINK)
-[![Telegram](https://img.shields.io/badge/-Telegram-0D0221?style=for-the-badge&logo=telegram&logoColor=39FF14)](https://t.me/YOUR-LINK)
-[![Email](https://img.shields.io/badge/-Email-0D0221?style=for-the-badge&logo=gmail&logoColor=9D00FF)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/[YOUR-LINK](https://www.linkedin.com/in/haron-ferhat-0497b725b?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+
+[![Email](https://img.shields.io/badge/-Email-0D0221?style=for-the-badge&logo=gmail&logoColor=9D00FF)](mailto:Haronferhat0075@gmail.com)
 
 </div>
 
